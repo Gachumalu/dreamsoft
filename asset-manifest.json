@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dreamsoft/static/css/main.46f4474f.css",
+    "main.js": "/dreamsoft/static/js/main.287fc3cd.js",
+    "static/media/img2.jpg": "/dreamsoft/static/media/img2.3d6ffe7bc9a244054696.jpg",
+    "static/media/img3.jpg": "/dreamsoft/static/media/img3.71a38661b92f5fdf84be.jpg",
+    "static/media/img1.jpg": "/dreamsoft/static/media/img1.c7fa3a008d7392dcbb41.jpg",
+    "static/media/phoneImg.jpg": "/dreamsoft/static/media/phoneImg.d872dba17d093fb17504.jpg",
+    "static/media/lpro4.jpg": "/dreamsoft/static/media/lpro4.fbca1345d06ff458e171.jpg",
+    "static/media/lpro3.jpg": "/dreamsoft/static/media/lpro3.3fca04ebbe8840aeca2c.jpg",
+    "static/media/lpro5.jpg": "/dreamsoft/static/media/lpro5.07faa9349e3bc190817f.jpg",
+    "static/media/lpro1.jpg": "/dreamsoft/static/media/lpro1.4208700c96e5a3e03104.jpg",
+    "static/media/lpro7.jpg": "/dreamsoft/static/media/lpro7.3171c7218ef8eb815836.jpg",
+    "static/media/lpro8.jpg": "/dreamsoft/static/media/lpro8.c93b49db62cd4dd299a5.jpg",
+    "static/media/lpro6.jpg": "/dreamsoft/static/media/lpro6.fab4bd612289b1b3ac2d.jpg",
+    "static/media/lpro2.jpg": "/dreamsoft/static/media/lpro2.44e235dc1521b83977f3.jpg",
+    "index.html": "/dreamsoft/index.html",
+    "main.46f4474f.css.map": "/dreamsoft/static/css/main.46f4474f.css.map",
+    "main.287fc3cd.js.map": "/dreamsoft/static/js/main.287fc3cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f4474f.css",
+    "static/js/main.287fc3cd.js"
+  ]
+}
