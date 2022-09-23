@@ -1,0 +1,110 @@
+
+.Year-count {
+    margin-top: 0;
+    padding: 1px;
+    font-size: 300px;
+    font-weight: 800;
+    border-left: 4px;
+    /* transform: translateY(-50%); */
+    transition: ease-in 0.8s;
+   background: linear-gradient(rgba(252,74,74,1)0%,rgba(0,212,2551)100%);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip:text;
+}
+.bordertitle{
+    border-style: solid;
+border-width: 0px  0px 0px  5px ;
+border-color: rgba(230, 93, 161, 0.582);
+}
+.Year-count:hover{
+    background: linear-gradient(to right,#1e5799 0%,#3ccdbb 0%,#16c9f6 100%);
+   -webkit-text-fill-color: transparent;
+   -webkit-background-clip:text;
+
+}
+
+.conut-title{
+    color: rgba(0, 0, 0, 0.603);
+    padding-left: 13px;
+    font-size: 37px;
+    font-weight: 600; 
+
+}
+.cout-text{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 21px;
+    color: rgba(116, 73, 70, 0.644);
+}
+
+
+
+.c-title{
+    font-size: 83px;
+    font-weight: 600;
+    color: rgba(20, 19, 19, 0.651);
+}
+.kspan{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.c-text{
+    font-size: 18px;
+    font-weight: 600;
+    color: rgba(121, 105, 105, 0.678);
+    
+}
+
+.btn-2{
+    width: 150px;
+    height: 50px;
+    margin-top: 15px;
+    border: none;
+    color: #fff;
+    background: #000;
+    border-radius: 4px;
+    transition: ease-out 0.3s;
+    font-size: 1rem;
+    position: relative;
+    z-index: 1;
+}
+.btn-2:hover{
+    color:#000;
+    font-weight: 600;
+    cursor: pointer;
+    background: linear-gradient(to right,#1e5799 0%,#3ccdbb 0%,#16c9f6 100%); ;
+}
+.btn-2::before{
+    transition: 0.5s all ease;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    opacity: 0;
+    content: "";
+    background: linear-gradient(to right,#1e5799 0%,#3ccdbb 0%,#16c9f6 100%); 
+    /* background-color: #a83232d8; */
+}
+.btn-2:hover::before{
+    transition: 0.5s all ease;
+    left: 0;
+    right: 0;
+    opacity: 1;
+    z-index: -1;
+    border-radius: 4px;
+}
+.imgborder{
+    width: 250px;
+    margin-top: 45px;
+}
+
+.imgborder:hover{
+    transition: 0.3s all ease;
+    width: 250px;
+    border-style:double;
+    border-width: 10px;
+    border-color: rgba(72, 117, 212, 0.212);
+}
+
